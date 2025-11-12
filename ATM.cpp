@@ -362,7 +362,7 @@ void ShowMainMenuScreen()
 {
 
 	system("cls");
-	cout << "Welcome: " << CurrentClient.ClientName << endl;
+	cout << "Good morning: " << CurrentClient.ClientName << endl;
 	cout << "===========================================\n";
 	cout << setw(35) << "ATM Main Menu Screen\n";
 	cout << "===========================================\n";

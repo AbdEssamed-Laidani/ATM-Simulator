@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LAPFON\\Desktop\\repos\\ATM Project\\",
+  "WorkspaceRootPath": "C:\\Users\\a\\Desktop\\tet\\ATM-Simulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D5B5FF8-B3B4-4CE5-9BC6-25E4614447BF}|ATM Project.vcxproj|C:\\Users\\LAPFON\\Desktop\\repos\\ATM Project\\ATM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6D5B5FF8-B3B4-4CE5-9BC6-25E4614447BF}|ATM Project.vcxproj|C:\\Users\\a\\Desktop\\tet\\ATM-Simulator\\ATM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6D5B5FF8-B3B4-4CE5-9BC6-25E4614447BF}|ATM Project.vcxproj|solutionrelative:ATM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -25,16 +25,16 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MyLib.h",
               "DocumentMoniker": "C:\\Users\\a\\source\\repos\\Project1\\MyLib.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\a\\source\\repos\\Project1\\MyLib.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\Project1\\MyLib.h",
               "ToolTip": "C:\\Users\\a\\source\\repos\\Project1\\MyLib.h",
-              "RelativeToolTip": "..\\..\\..\\..\\a\\source\\repos\\Project1\\MyLib.h",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Project1\\MyLib.h",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-06T15:15:10.571Z"
             },
@@ -42,11 +42,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ATM.cpp",
-              "DocumentMoniker": "C:\\Users\\LAPFON\\Desktop\\repos\\ATM Project\\ATM.cpp",
+              "DocumentMoniker": "C:\\Users\\a\\Desktop\\tet\\ATM-Simulator\\ATM.cpp",
               "RelativeDocumentMoniker": "ATM.cpp",
-              "ToolTip": "C:\\Users\\LAPFON\\Desktop\\repos\\ATM Project\\ATM.cpp",
+              "ToolTip": "C:\\Users\\a\\Desktop\\tet\\ATM-Simulator\\ATM.cpp",
               "RelativeToolTip": "ATM.cpp",
-              "ViewState": "AgIAAIQBAAAAAAAAAAAAAI8BAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAAAGQBAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-04T14:48:17.922Z",
               "EditorCaption": ""

@@ -282,10 +282,8 @@ void PerformNormalWithdraw()
 		if (IsOverBalance(WithdrawAmount))
 		{
 			ShowOverBalanceMessage();
-			PerformNormalWithdraw();
-			return;
 		}
-		if (toupper(ReadLetter("Are you sure? [Y/N]: ")) == 'Y')
+		else if (toupper(ReadLetter("Are you sure? [Y/N]: ")) == 'Y')
 		{
 			DepositByAccountNumber(CurrentClient.accountNumber, WithdrawAmount * -1);
 			CurrentClient.Balance -= WithdrawAmount;
